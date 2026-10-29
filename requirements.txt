@@ -1,0 +1,12 @@
+# Vidur's own dependencies (vidur/requirements.txt) plus scipy for CIs and Kendall tau
+numpy
+pandas
+scikit-learn
+scipy
+wandb
+kaleido
+ddsketch
+plotly_express
+matplotlib
+seaborn
+fasteners
